@@ -1,0 +1,1 @@
+A ideia dessa lista de tarefeas é praticar e aplicar conceitos novos com o javascript que eu aprendi, tais como seleção de elementos na página, esconder e fazer aparecer divs, botões e inserir html pelo js.
